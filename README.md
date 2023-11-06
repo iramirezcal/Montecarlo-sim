@@ -5,7 +5,7 @@ Es una simulación hecha en base a el método Monte Carlo que nos creará una po
 
 Para usar el codigo solo se debe descargar, se puede encontrar en el siguiente enlace:
 ```sh
-
+https://github.com/iramirezcal/Montecarlo-sim/blob/eae35a576ad380df23645f6deef41625eaa7918e/MC(1).ipynb
 ```
 
 ## Requerimientos
