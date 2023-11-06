@@ -3,6 +3,16 @@ Código de python creado por Isidora Ramírez
 
 Es una simulación hecha en base a el método Monte Carlo que nos creará una población estelar aleatoria siguiendo cierta condiciones, como el rango de masa de los cuerpos estelares y el rango del tiempo de nacimiento de estos. El programa nos entregará distintas gráficas que nos ayudarán a comprender la evolución y la distribución de los cuerpos estelares que podrían estar en la Vía Lactea. 
 
+Para usar el codigo solo se debe descargar, se puede encontrar en el siguiente enlace:
+```sh
+
+```
+
+## Requerimientos
+- Librerías:
+    - Numpy
+    - Matplotlib   
+
 ## Simulación
 - Inicialmente se crea una lista con masas aleatorias, entre cierto rango, por defecto 0.08-100 pero estos valores se deben cambiar dependiendo de lo que se quiera modelar, al igual que la cantidad de estrellas que se quieren estudiar. Seguido a esto se hacen 2 listas dependiendo del rango de las masas para realizar la IMF dependiendo del alpha que le corresponda según la power law y así obtenemos los valores para la gráfica, este es nuestro primer output, la gráfica de IMF. 
 
